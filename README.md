@@ -78,7 +78,7 @@ I enjoy building scalable web applications and continuously improving my skills 
 
 ## 📊 GitHub Stats  
 
-![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhanubasyan&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bhanubasyan&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Bhanubasyan&theme=radical)
 
