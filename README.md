@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhanu  
 
-🚀 Full Stack Developer | DSA Problem Solver  
+🚀 Full Stack Developer | DSA Problem Solver  leetcoder
 
 ---
 
